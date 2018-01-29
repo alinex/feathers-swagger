@@ -55,7 +55,8 @@
     "debug": "^3.1.0",
     "feathers-errors": "^2.5.0",
     "serve-static": "^1.12.4",
-    "swagger-ui": "^3.9.3"
+    "swagger-ui": "git+https://github.com/swagger-api/swagger-ui.git",
+    "swagger-ui-dist": "^3.9.3"
   },
   "devDependencies": {
     "@feathersjs/express": "^1.1.1",
